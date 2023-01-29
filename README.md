@@ -114,6 +114,7 @@ Like the Cox model, this model is also a regression model but unlike the Cox mod
 During estimation, the linear regression is computed at each step. The regression can become unstable due to small sample sizes or high colinearity in the dataset.
 This is a parametric model, which means that it has a functional form with parameters that we are fitting the data to. Parametric models allow us to extend the survival function, hazard function, or the cumulative hazard function past our maximum observed duration. This concept is called Extrapolation
 
+_____
 ## Author
 
 <table>
